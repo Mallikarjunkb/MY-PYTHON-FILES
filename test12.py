@@ -1,3 +1,4 @@
+# doing multiplication , division , substraction , addittion
 #!/usr/bin/python3
 a=24
 print(a*8)
