@@ -3,4 +3,4 @@
 import  random
 r=random.randidant(23,49)
 print(r)
-#prints r
+# prints r
