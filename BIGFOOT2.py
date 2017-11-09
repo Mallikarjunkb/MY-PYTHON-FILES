@@ -1,4 +1,4 @@
-# program for pic a photo using raspberrt pi
+# program for pic a photo using raspberry pi
 import os
 import time
 
