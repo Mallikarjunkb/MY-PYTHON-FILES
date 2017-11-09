@@ -1,3 +1,4 @@
+# program to pick Rock or paper or scissor
 #!/usr/bin/python3
 import random
 
