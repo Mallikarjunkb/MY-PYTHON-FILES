@@ -1,3 +1,4 @@
+# program using raspberry pi
 import math
 f = open('mydata.dat', 'w')
 # loop
