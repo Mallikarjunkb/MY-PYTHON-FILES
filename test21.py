@@ -1,3 +1,4 @@
+# playing with dice 
 #!/usr/bin/python3
 import random
 count=0
