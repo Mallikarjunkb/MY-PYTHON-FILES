@@ -1,3 +1,4 @@
+# program of motion sensor
 from gpiozero import MotionSensor
 
 pir = MotionSensor(4)
