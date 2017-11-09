@@ -1,3 +1,4 @@
+# finding multiplication
 #!/usr/bin/python3
 for i in range(1,10):
 # i is only in the range 1 to 10
