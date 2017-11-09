@@ -11,3 +11,4 @@ while count<=100:
 		print("your are on count, count")
 		if r<=100:
 			print("u won")
+# prints u won
